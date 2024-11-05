@@ -5,6 +5,11 @@ HOST-SUFFIX,battle.net,Outer
 HOST-SUFFIX,battlenet.com,Outer
 HOST-SUFFIX,blizzard.com,Outer
 
+# > Claude
+HOST,cdn.usefathom.com, proxy
+HOST-SUFFIX,anthropic.com, proxy
+HOST-SUFFIX,claude.ai, proxy
+
 # > Discord
 HOST-SUFFIX,discord.com,Outer
 HOST-SUFFIX,discord.gg,Outer
