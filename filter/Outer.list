@@ -67,6 +67,9 @@ HOST-SUFFIX,oaistatic.com,Outer
 HOST-SUFFIX,oaiusercontent.com,Outer
 HOST-SUFFIX,openai.com,Outer
 
+# > Perplexity
+HOST-SUFFIX, perplexity.ai, Outer
+
 # > > CDN & API
 HOST,chat.openai.com.cdn.cloudflare.net,Outer
 HOST,openaiapi-site.azureedge.net,Outer

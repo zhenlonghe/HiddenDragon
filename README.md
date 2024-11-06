@@ -1,1 +1,5 @@
-QX REF: https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
+---
+
+## 参考
+
+[1]: https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
